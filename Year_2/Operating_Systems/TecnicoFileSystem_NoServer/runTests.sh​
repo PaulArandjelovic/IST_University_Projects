@@ -1,0 +1,24 @@
+#!/bin/bash
+
+YELLOW='\033[1;33m'
+LGREEN='\033[1;32m'
+CYAN='\033[0;36m'
+NC='\033[0m'
+
+inputdir=$1
+outputdir=$2
+maxthreads=$3
+numbuckets=$4
+
+
+for file in ${inputdir}/*.txt
+do
+    echo -e ${NC}"InputFile=${file} NumThreads=1"${LGREEN}
+    ./tecnicofs-nosync ${file} "${outputdir}/$(basename ${file%.*})-1.txt" 1 1 | grep 'TecnicoFS completed in'
+
+    for x in $(seq 2 ${maxthreads})
+    do
+        echo -e ${NC}"InputFile=${file} NumThreads=${x}" ${LGREEN}
+        ./tecnicofs-mutex ${file} "${outputdir}/$(basename ${file%.*})-${x}.txt" ${x} ${numbuckets} | grep 'TecnicoFS completed in'
+    done
+done

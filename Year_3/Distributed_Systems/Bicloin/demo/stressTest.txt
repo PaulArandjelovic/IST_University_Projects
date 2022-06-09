@@ -1,0 +1,810 @@
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
+move 38.7633 -9.095
+top-up 10
+balance
+bike-up ocea
+bike-down ocea
+balance
+move 38.7369 -9.1366
+top-up 10
+balance
+bike-up ista
+bike-down ista
+balance
+move 38.7376 -9.1545
+top-up 10
+balance
+bike-up gulb
+bike-down gulb
+balance
+move 38.7097 -9.1336
+top-up 10
+balance
+bike-up cate
+bike-down cate
+balance
+move 38.7075 -9.1364
+top-up 10
+balance
+bike-up prcm
+bike-down prcm
+balance
+move 38.706 -9.1441
+top-up 10
+balance
+bike-up cais
+bike-down cais
+balance
+move 38.6972 -9.2064
+top-up 10
+balance
+bike-up jero
+bike-down jero
+balance
+move 38.6867 -9.3124
+top-up 10
+balance
+bike-up stao
+bike-down stao
+balance
+move 38.7372 -9.3023
+top-up 10
+balance
+bike-up istt
+bike-down istt
+balance
